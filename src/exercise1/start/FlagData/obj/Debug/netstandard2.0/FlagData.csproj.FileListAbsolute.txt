@@ -1,0 +1,7 @@
+C:\git Activitys\data-binding\src\exercise1\start\FlagData\bin\Debug\netstandard2.0\FlagData.deps.json
+C:\git Activitys\data-binding\src\exercise1\start\FlagData\bin\Debug\netstandard2.0\FlagData.dll
+C:\git Activitys\data-binding\src\exercise1\start\FlagData\bin\Debug\netstandard2.0\FlagData.pdb
+C:\git Activitys\data-binding\src\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfoInputs.cache
+C:\git Activitys\data-binding\src\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfo.cs
+C:\git Activitys\data-binding\src\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.dll
+C:\git Activitys\data-binding\src\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.pdb

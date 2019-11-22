@@ -1,0 +1,14 @@
+C:\git Activitys\data-binding\src\exercise1\start\FlagFacts\bin\Debug\netstandard2.0\FlagFacts.deps.json
+C:\git Activitys\data-binding\src\exercise1\start\FlagFacts\bin\Debug\netstandard2.0\FlagFacts.dll
+C:\git Activitys\data-binding\src\exercise1\start\FlagFacts\bin\Debug\netstandard2.0\FlagFacts.pdb
+C:\git Activitys\data-binding\src\exercise1\start\FlagFacts\bin\Debug\netstandard2.0\FlagData.dll
+C:\git Activitys\data-binding\src\exercise1\start\FlagFacts\bin\Debug\netstandard2.0\FlagData.pdb
+C:\git Activitys\data-binding\src\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.csprojAssemblyReference.cache
+C:\git Activitys\data-binding\src\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\git Activitys\data-binding\src\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\git Activitys\data-binding\src\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.AssemblyInfoInputs.cache
+C:\git Activitys\data-binding\src\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.AssemblyInfo.cs
+C:\git Activitys\data-binding\src\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\XamlC.stamp
+C:\git Activitys\data-binding\src\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.csproj.CopyComplete
+C:\git Activitys\data-binding\src\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.dll
+C:\git Activitys\data-binding\src\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.pdb
